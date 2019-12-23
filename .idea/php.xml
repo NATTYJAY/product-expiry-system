@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/system/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/system/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/system/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/system/vendor/composer" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/system/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/system/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/system/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/system/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/system/vendor/wn/lumen-generators" />
+      <path value="$PROJECT_DIR$/system/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/system/vendor/laravel/lumen-framework" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/system/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/auth" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/hashing" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/broadcasting" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/encryption" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/system/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/system/vendor/illuminate/validation" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/system/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
